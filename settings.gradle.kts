@@ -11,4 +11,5 @@ include("ans-sdk-transparency")
 // Examples (under ans-sdk-agent-client) - not published to Maven, but useful for users of the SDK to reference and run locally
 include("ans-sdk-agent-client:examples:http-api")
 include("ans-sdk-agent-client:examples:mcp-client")
+include("ans-sdk-agent-client:examples:mcp-server-spring")
 include("ans-sdk-agent-client:examples:a2a-client")
